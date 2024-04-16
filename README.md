@@ -1,6 +1,7 @@
 # Mi Página Web
 
-Esta es una página web sencilla creada como parte de un proyecto de aprendizaje. El enlace es <Tecnomotion-UNAL2024-1.github.io>
+Esta es una página web sencilla creada como parte de un proyecto de aprendizaje. [Visita mi página web](https://tecnomotion-unal2024-1.github.io/)
+
 
 ## Instalación
 
