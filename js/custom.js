@@ -12,8 +12,11 @@ $(function(){
 /*--------------------------------------------------
     Initialize portfolio filter
     ---------------------------------------------------*/
-	$('#portfolio-grid').mixItUp();
-
+	$('#portfolio-grid').mixItUp({
+        load: {
+            filter: '.allu' // Set the '.allu' filter as the default state
+        }
+    });
 /*--------------------------------------------------
     Open video modal
     ---------------------------------------------------*/
