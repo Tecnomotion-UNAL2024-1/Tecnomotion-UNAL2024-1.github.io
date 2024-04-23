@@ -10,6 +10,12 @@ Este trabajo busca aplicar los conocimientos del curso de Automatización de Pro
 ## Créditos
 
 Desarrollado por Tecnomotion.
+<div>
+<p style = 'text-align:center;' align="center">
+<img src="https://github.com/Tecnomotion-UNAL2024-1/Tecnomotion-UNAL2024-1.github.io/blob/065f051eb08f4bbc74973b43ecd9b7f38e08a216/logo_Tecnomotion.png" width="600px" >
+</p>
+</div>
+
 
 * Danilo Enrique Insuasty Delgado
 * Johan Leonardo Castellanos Ruiz
