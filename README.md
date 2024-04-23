@@ -11,9 +11,9 @@ Este trabajo busca aplicar los conocimientos del curso de Automatización de Pro
 
 Desarrollado por Tecnomotion
 <hr>
-Danilo Enrique Insuasty Delgado ---
-Johan Leonardo Castellanos Ruiz
-Theylor Andres Amaya Villabon
-Daniel Alejandro Delgado Arcila
-Wilfer Armando Fiquitiva Mendez
-Juan Pablo Cardenas Higuera
+Danilo Enrique Insuasty Delgado <hr>
+Johan Leonardo Castellanos Ruiz<hr>
+Theylor Andres Amaya Villabon<hr>
+Daniel Alejandro Delgado Arcila<hr>
+Wilfer Armando Fiquitiva Mendez<hr>
+Juan Pablo Cardenas Higuera<hr>
